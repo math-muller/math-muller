@@ -9,7 +9,7 @@ I am a very confident person with my plans and goals, and especially with the go
 
  ---
 
-   <div align="center">
+   <div float="right">
 
 ![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dark)
 
