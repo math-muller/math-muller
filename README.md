@@ -9,12 +9,14 @@ I am a very confident person with my plans and goals, and especially with the go
 
  ---
 
-   <div align="center">
+   <div display="inline">
 
-![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dark)
+![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&layout=compact)](https://github.com/resist0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&theme=dark-light)](https://github.com/resist0/github-readme-stats)
 
+
+   
    </div>
 
 ---
