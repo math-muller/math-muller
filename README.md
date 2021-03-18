@@ -9,13 +9,13 @@ I am a very confident person with my plans and goals, and especially with the go
 
  ---
 
-   <div style="display:inline">
+   <div align="center">
 
 ![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&theme=dracula)](https://github.com/resist0/github-readme-stats)
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Santos-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-santos/)](https://www.linkedin.com/in/math-santos/)
+
    
    </div>
 
@@ -24,6 +24,6 @@ I am a very confident person with my plans and goals, and especially with the go
    <div align="center">
 
 
-
+   [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Santos-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-santos/)](https://www.linkedin.com/in/math-santos/)
 
    </div>
