@@ -4,7 +4,7 @@
 
 <p align="center">
 I am Passionate programmer & mobile developer. Interested in Flutter, Kotlin, Swift and Java.<br>
-I am a very confident person with my plans and goals, and especially with the goals that I set myself, and the main one is always seeking to improve, to be better day after day. I like to keep myself informed and updated, and I always try to learn about what I don't know, and go even deeper into the things I already know. I love to stimulate my ability to solve problems and my creativity.
+I am a very confident person with my plans and goals, and especially with the goals that I set myself, and the main one is always seeking to improve, to be better day after day. I like to keep myself informed and updated, and I always try to learn about what I don't know, and go even deeper into the things I already know.
 </p>
 
  ---
