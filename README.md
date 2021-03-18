@@ -10,20 +10,20 @@ I am a very optimistic person with my plans and goals, and especially with the g
 
  ---
 
-   <div display:inline>
+   <div align="center">
 
 ![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&theme=dark)](https://github.com/resist0/github-readme-stats)
 
-   [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Santos-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-santos/)](https://www.linkedin.com/in/math-santos/)
 
    </div>
 
 ---
 
-   <div align="right">
+   <div align="center">
 
 
+   [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Santos-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-santos/)](https://www.linkedin.com/in/math-santos/)
 
    </div>
