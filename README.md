@@ -12,7 +12,7 @@ I am a very optimistic person with my plans and goals, and especially with the g
 
    <div align="center">
 
-![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dark)
+![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dracula)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&theme=dracula)](https://github.com/resist0/github-readme-stats)
 
