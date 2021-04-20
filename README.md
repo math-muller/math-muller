@@ -11,14 +11,9 @@ I am a very confident person with my plans and goals, and especially with the go
 
    <div align="center">
 
-
-
 <a href="https://www.linkedin.com/in/math-santos/" target="_blank">
   <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/linkedin.svg" width="30px"  alt="Matheus Santos | LinkedIn" align="left" />
 </a>
 
-
-
-   
    </div>
 
