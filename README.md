@@ -11,19 +11,14 @@ I am a very confident person with my plans and goals, and especially with the go
 
    <div align="center">
 
-![Matheus Santos github stats](https://github-readme-stats.vercel.app/api?username=resist0&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=resist0&theme=dark)](https://github.com/resist0/github-readme-stats)
+
+<a href="https://www.linkedin.com/in/math-santos/" target="_blank">
+  <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/linkedin.svg" width="30px"  alt="Matheus Santos | LinkedIn" align="left" />
+</a>
+
 
 
    
    </div>
 
----
-
-   <div align="center">
-
-
-   [![Linkedin Badge](https://img.shields.io/badge/-Matheus%20Santos-292929?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/math-santos/)](https://www.linkedin.com/in/math-santos/)
-
-   </div>
