@@ -2,6 +2,9 @@
 
 <h4 align="start">How are you? I hope you are well, welcome to my profile. 😊😄</h4>
 
+💬 
+About me
+
 <p>
 I am Passionate programmer & mobile developer. Interested in Flutter, Kotlin, Swift and Java.<br>
 I am a very confident person with my plans and goals, and especially with the goals that I set myself, and the main one is always seeking to improve, to be better day after day. I like to keep myself informed and updated, and I always try to learn about what I don't know, and go even deeper into the things I already know.
