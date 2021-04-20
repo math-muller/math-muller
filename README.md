@@ -6,7 +6,7 @@
 <br/>
 <h4 align="start">How are you? I hope you are well, welcome to my profile. 😊😄</h4>
 <br/>
-
+<br/>
 💬 
 About me
 
@@ -16,10 +16,4 @@ I am a very confident person with my plans and goals, and especially with the go
 </p>
 
  ---
-
-   <div align="center">
-
-
-
-   </div>
 
