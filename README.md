@@ -22,5 +22,5 @@ I am a very confident person with my plans and goals, and especially with the go
 
  ---
  
- ![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)
+ ![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=math-muller&theme=white&title_color=333333&show_icons=true" alt="Tecnologias mais usadas"></p>
 
