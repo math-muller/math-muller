@@ -21,4 +21,6 @@ I am a very confident person with my plans and goals, and especially with the go
 </p>
 
  ---
+ 
+ ![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)
 
