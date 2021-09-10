@@ -5,7 +5,7 @@
 ![](https://komarev.com/ghpvc/?username=math-muller&color=blue)
 [![GitHub math-muller](https://img.shields.io/github/followers/math-muller?label=follow&style=social)](https://github.com/math-muller) 
 
-![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)
+
 
 
   <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/linkedin.svg" width="30px"  alt="Matheus Santos | LinkedIn" align="left" />
@@ -27,4 +27,4 @@ I am a very confident person with my plans and goals, and especially with the go
  ---
  
 
-
+![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)
