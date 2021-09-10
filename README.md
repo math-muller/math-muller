@@ -1,13 +1,13 @@
 <h1 align="start">Hi there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="24px">, I'm Matheus Santos</h1>
 
-<a href="https://www.linkedin.com/in/math-santos/" target="_blank">
+
   
 ![](https://komarev.com/ghpvc/?username=math-muller&color=blue)
 [![GitHub math-muller](https://img.shields.io/github/followers/math-muller?label=follow&style=social)](https://github.com/math-muller) 
 
 
 
-
+<a href="https://www.linkedin.com/in/math-santos/" target="_blank">
   <img src="https://raw.githubusercontent.com/weslleyfratini/weslleyfratini/master/assets/linkedin.svg" width="30px"  alt="Matheus Santos | LinkedIn" align="left" />
 </a>
 <br/>
