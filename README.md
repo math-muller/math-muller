@@ -22,7 +22,3 @@ I am Passionate programmer & mobile developer. Interested in Flutter, Kotlin, Sw
 I am a very confident person with my plans and goals, and especially with the goals that I set myself, and the main one is always seeking to improve, to be better day after day. I like to keep myself informed and updated, and I always try to learn about what I don't know, and go even deeper into the things I already know.
 </p>
 
- ---
- 
-
-![Metrics](https://metrics.lecoq.io/math-muller?template=classic&config.timezone=America%2FSao_Paulo)
